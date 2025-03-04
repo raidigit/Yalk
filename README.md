@@ -1,2 +1,2 @@
 # Yalk
-2D C# Game about survival during a zombie apocalypse
+2D Game about survival during a zombie apocalypse
